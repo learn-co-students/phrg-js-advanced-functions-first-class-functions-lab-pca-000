@@ -24,3 +24,4 @@ Functions are a very important part of JavaScript, and you will use them all the
 - [JavaScript is Sexy: Higher-Order Functions](http://javascriptissexy.com/tag/higher-order-functions/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-advanced-functions-first-class-functions-lab'>First-Class Functions Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG First-Class Functions Lab</p>
